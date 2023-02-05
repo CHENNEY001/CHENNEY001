@@ -6,7 +6,7 @@
 - 👨‍💻 I’m building my knowledge in the field of Computer Science and Data Science
   - Learning Natural Language Processing
   - Learning how to build and deploy neural network models in PyTorch
-  - Learning Linux programming
+  - Learning Operating Systems and Linux programming
 
 - 🤝 I’m looking to collaborate with other content creators
 
